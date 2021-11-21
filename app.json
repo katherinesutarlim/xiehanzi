@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "xiehanzi",
+    "slug": "xiehanzi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.katsutarlim.xiehanzi"
+    },
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-system-ui"
+    ]
+  },
+  "name": "xiehanzi"
+}
